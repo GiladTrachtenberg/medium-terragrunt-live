@@ -54,7 +54,7 @@ Please ensure you review any changes carefully before applying them.
 
 ## More Information
 
-For more detailed information about each module and its inputs and outputs, please refer to our [Terraform Modules repository](https://github.com/GiladTrachtenberg/medium-tf-moduless).
+For more detailed information about each module and its inputs and outputs, please refer to our [Terraform Modules repository](https://github.com/GiladTrachtenberg/medium-tf-modules).
 
 ## Note
 
